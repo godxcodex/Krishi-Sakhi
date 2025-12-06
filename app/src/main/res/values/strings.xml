@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Krishi Sakhi</string>
+    <string name="concept_car">concept car</string>
+    <string name="ferrari">ferrari</string>
 </resources>
